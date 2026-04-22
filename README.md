@@ -1,16 +1,29 @@
-## Hi there 👋
+# Giovanni Duarte
 
-<!--
-**gardmaster/gardmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+Java;" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/gardmaster">
+    <img src="https://img.shields.io/badge/GitHub-gardmaster-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%20%E2%80%93%20RJ-009CDE?style=for-the-badge&logo=google-maps&logoColor=white" alt="Rio de Janeiro" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias
+
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,quarkus,spring,hibernate,apachemaven,gitbash,sql,dbeaver" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gardmaster&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardmaster&layout=compact&theme=transparent&hide_border=true" />
+</p>
