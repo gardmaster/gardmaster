@@ -8,9 +8,13 @@
   <a href="https://github.com/gardmaster">
     <img src="https://img.shields.io/badge/GitHub-gardmaster-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%20%E2%80%93%20RJ-009CDE?style=for-the-badge&logo=google-maps&logoColor=white" alt="Rio de Janeiro" />
+  <a href="https://www.linkedin.com/in/garduarte/">
+    <img src="https://img.shields.io/badge/LinkedIn-garduarte-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/garduarte/">
+    <img src="https://img.shields.io/badge/Instagram-@garduarte-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
 </p>
-
 ---
 
 ## Tecnologias
