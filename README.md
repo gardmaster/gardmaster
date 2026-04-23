@@ -15,9 +15,8 @@
     <img src="https://img.shields.io/badge/Instagram-@garduarte-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </p>
----
 
-## Tecnologias
+---
 
 <p align="left">
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,quarkus,spring,hibernate,apachemaven,gitbash,sql,dbeaver" />
